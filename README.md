@@ -1,6 +1,6 @@
 ### <div align = "center">Olá! (●'◡'●) <img src ="http://giffactory.joeyteel.com/med/talia/TerriermonMovie.gif" /></div>
 ##
-<div style = "float: center;" align = "center">
+<div style = "display: inline_block">
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=marianapmonteiro&show_icons=true&theme=vue" />
   <img src = "http://giffactory.joeyteel.com/med/talia/TerriermonData.gif" />
 <img height"180em" src= https://github-readme-stats.vercel.app/api/top-langs/?username=marianapmonteiro&layout=compact&theme=vue />
