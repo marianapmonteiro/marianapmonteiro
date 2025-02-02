@@ -1,7 +1,7 @@
 
 ## Mariana Monteiro
 
-Me chamo Mariana, tenho 25 anos e sou formada em Engenharia de Software pela UniCesumar. Com mais de 3 anos de experiência no desenvolvimento de aplicações usando as tecnologias React/Next, Node, Express, Tailwind, MongoDB 
+Me chamo Mariana, tenho 25 anos e sou formada em Engenharia de Software pela UniCesumar. Possuo 3 anos de experiência no desenvolvimento de aplicações usando as tecnologias React/Next, Node, Express, Tailwind, MongoDB 
 
 ## Tecnologias
 
@@ -16,7 +16,6 @@ Me chamo Mariana, tenho 25 anos e sou formada em Engenharia de Software pela Uni
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-  <img src="https://github-readme-stats.vercel.app/api?username=marianapmonteiro&show_icons=true&bg_color=00000000" height="200px" align="left" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianapmonteiro&layout=compact&bg_color=00000000" height="200px" align="left" />
 
 
